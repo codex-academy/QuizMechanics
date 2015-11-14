@@ -54,9 +54,11 @@ This is a quick brain dump of the things one need to be able to do the create a 
 ## Tools
 
 * Nice selection [free icons](https://fortawesome.github.io/Font-Awesome/) easy to create icons of different sizes
-* Use bootstrap for [easy, clean & responsive layouts](getbootstrap.com)
+* Use bootstrap for [easy, clean & responsive layouts](getbootstrap.com) OR is [Skeleton](getskeleton.com) better as it's simpler? But there are a lot less examples out there
 * Use [handlebars](http://handlebarsjs.com/) for templating - works well on the client and they wikk use it later on the server side.
+* jQuery / plain javascript?
 * Storage: 
     * localstorage
     * API hidden behind function
+* ?
 
