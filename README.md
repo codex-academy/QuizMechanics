@@ -47,7 +47,16 @@ This is a quick brain dump of the things one need to be able to do the create a 
 * Client side event handling form events
 * Template rendering
 * Display images
+* JSON basics - stringify/parse
 * Play audio in the browser
 * ?
 
+## Tools
+
+* Nice selection [free icons](https://fortawesome.github.io/Font-Awesome/) easy to create icons of different sizes
+* Use bootstrap for [easy, clean & responsive layouts](getbootstrap.com)
+* Use [handlebars](http://handlebarsjs.com/) for templating - works well on the client and they wikk use it later on the server side.
+* Storage: 
+    * localstorage
+    * API hidden behind function
 
