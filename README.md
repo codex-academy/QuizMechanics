@@ -53,11 +53,9 @@ This is a quick brain dump of the things one need to be able to do the create a 
 
 ## Tools
 
-* Nice selection [free icons](https://fortawesome.github.io/Font-Awesome/) easy to create icons of different sizes
-* Use bootstrap for [easy, clean & responsive layouts](getbootstrap.com) OR is [Skeleton](getskeleton.com) better as it's simpler? But there are a lot less examples out there
-* Use [handlebars](http://handlebarsjs.com/) for templating - works well on the client and they wikk use it later on the server side.
-* jQuery / plain javascript?
-* Storage:
-    * localstorage
-    * API hidden behind function
-* ?
+* Use [Flaticon](http://www.flaticon.com/) (or another source of your choice) to add icons. Icons should always have text next to them.
+* Use [Twitter's Bootstrap Framework](http://getbootstrap.com/) for basic styling and User Interface interactions. It's not always the right choice, but we want to get the interface together quickly, with minimal fuss, to be polished later.
+  * Bootstrap requires [jQuery](https://jquery.com/) (a JavaScript library that provides a simpler way of doing things). Have a look at [their base template](http://getbootstrap.com/getting-started/#template) for how to get started.
+* Use jQuery for things like [DOM manipulation](http://api.jquery.com/category/manipulation/), [event handling](http://api.jquery.com/category/events/), [forms](http://api.jquery.com/category/forms/), [Ajax](http://api.jquery.com/category/ajax/). It's not always the right choice, but since you're including it for Bootstrap, it makes sense to use here.
+* Use [Handlebars](http://handlebarsjs.com/) for templating. It's a popular, powerful, templating language that we'll be using a lot.
+* Use [PouchDB](http://pouchdb.com/) to store the data. It stores the data in the user's browser (and can sync to a remote database, which we might look at later).
