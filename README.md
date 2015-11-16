@@ -4,11 +4,11 @@ How to build an educational quiz.
 
 ## Quiz question types
 
-* Click on all the red squares
-* Click on the cow
-* Click on the smallest cow
-* Click on the animal that make this sound
-* Click on the blue circle
+* Pick all the red squares
+* Pick the cow
+* Pick the smallest cow
+* Pick the animal that make this sound
+* Pick the blue circle
 * ?
 
 ## Quiz types
